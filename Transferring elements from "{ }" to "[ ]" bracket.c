@@ -7,6 +7,6 @@ int main(){
         if (i<4){
             printf(",");}
     }
-    printf("]\n");
+    printf("]");
     return 0;
 }
